@@ -24,9 +24,9 @@ img{
   margin:0px 20px;
 }
 .ticket{
-  position:relative;
-  height:410px;
-  width:690px;
+  position:absolute;
+  height:100%;
+  width:100%;
   background:black;
   display:flex;
   align-items:flex-end;
